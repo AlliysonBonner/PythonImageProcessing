@@ -1,6 +1,6 @@
 
 **Oirginal image**
-![a collage of proccessed images from the project](https://github.com/AlliysonBonner/Minesweeper/blob/main/image.png?raw=true)
+![a collage of proccessed images from the project](https://github.com/AlliysonBonner/PythonImageProcessing/blob/main/image.png?raw=true)
 This project demonstrates how to perform various image manipulations using Python. The project includes a Python module transform.py which provides the following functions:
 **Oirginal image**
 
