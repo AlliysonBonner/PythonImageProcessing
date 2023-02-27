@@ -1,8 +1,8 @@
 
-**Oirginal image**
+**Orginal image**
 ![a collage of proccessed images from the project](https://github.com/AlliysonBonner/PythonImageProcessing/blob/main/image.png?raw=true)
 This project demonstrates how to perform various image manipulations using Python. The project includes a Python module transform.py which provides the following functions:
-**Oirginal image**
+**Orginal image**
 
 * `brighten(image, factor): brightens the input image by the given factor.
 * adjust_contrast(image, factor, mid): adjusts the contrast of the input image by increasing or decreasing the difference from the given midpoint by the given factor.
